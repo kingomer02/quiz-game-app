@@ -1,0 +1,28 @@
+.question-container {
+  margin-bottom: 20px;
+}
+
+.question-card {
+  padding: 25px;
+  border: 1px solid #333;
+  border-radius: 8px;
+  background-color: #262626;
+}
+
+.question-text {
+  margin-bottom: 20px;
+  font-size: clamp(1.1rem, 1rem + 1vw, 1.7rem);
+  /* font-size: 1.2rem; */
+  color: #d4af37;
+}
+
+.options-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.next-button-container {
+  margin-top: 25px;
+  text-align: right;
+}
