@@ -14,5 +14,5 @@ Dies ist eine Quiz Game App, die als Übungsprojekt für React erstellt wurde. D
 1. **Repository klonen:**
 
    ```bash
-   git clone https://github.com/deinBenutzername/quiz-game-app.git
+   git clone https://github.com/kingomer02/quiz-game-app.git
    ```
